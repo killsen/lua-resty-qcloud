@@ -1,0 +1,9 @@
+.rocks
+lua_modules
+lua_types
+*.zip
+
+site/*
+nginx/*
+
+!nginx/resty
